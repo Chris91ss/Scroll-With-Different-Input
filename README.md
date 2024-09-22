@@ -27,7 +27,7 @@ This Unity script allows for scrolling through UI elements using various input d
 ### Installation
 1. Clone or download the repository into your Unity project.
    ```bash
-   git clone https://github.com/your-username/Scroll-With-Different-Input.git
+   git clone https://github.com/Chris91ss/Scroll-With-Different-Input
    ```
 2. Drag and drop the `ScrollWithInput.cs` script into the **Template** of the Dropdown or any scrollable UI element.
 
